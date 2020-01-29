@@ -5,3 +5,5 @@
 3) Moderate-to-vigorous games and sports
 4) Walk
 5) Run
+
+Publication DOI: https://doi.org/10.1080/1091367X.2020.1716768 
